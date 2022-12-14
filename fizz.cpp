@@ -1,4 +1,3 @@
-//DPR 210 - Fizz Buzz - tjudge
 //It's just an implementation of FizzBuzz. 
 //Nothing exciting, advanced or complicated
 #include <stdio.h>
